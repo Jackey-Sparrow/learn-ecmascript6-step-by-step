@@ -10,3 +10,9 @@ export class Hello{
 		console.log('hi');
 	}
 }
+
+export var myName = 'Jackey';
+
+export function sayHi(){
+	console.log('say hi');
+}
