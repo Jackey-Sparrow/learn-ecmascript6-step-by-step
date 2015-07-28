@@ -12,6 +12,7 @@ var info = m.get('info');
 console.log(info);
 
 
+
 //properties
 
 // size
