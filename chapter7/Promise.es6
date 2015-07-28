@@ -44,3 +44,13 @@ getList('./chapter7/list.json').then(function (response) {
 }, function (error) {
     console.log(error);
 });
+
+
+//promise.all
+//var promises = [2, 3, 4].map((x)=> {
+//    return getList('xxx' + x);
+//});
+//
+//Promise.all(promises).then(function (responses) {
+//    //..
+//});
