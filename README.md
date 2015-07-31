@@ -1,4 +1,4 @@
-# Learn-EcmaScript6-Step-By-
+# Learn-EcmaScript6-Step-By-Step
 
 Learn EcmaScript6 Step By Step
 
@@ -6,7 +6,7 @@ Learn EcmaScript6 Step By Step
 ```
 <!-- 加载Traceur编译器 -->
 <script src="http://google.github.io/traceur-compiler/bin/traceur.js" type="text/javascript"></script>
-<!--&lt;!&ndash; 将Traceur编译器用于网页 &ndash;&gt;-->
+<!--将Traceur编译器用于网页-->
 <script src="http://google.github.io/traceur-compiler/src/bootstrap.js" type="text/javascript"></script>
 ```
 为方便国内被block的朋友所使用，已经下载上面2个文件放到lib文件夹中。
