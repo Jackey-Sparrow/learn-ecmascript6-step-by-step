@@ -1,6 +1,17 @@
-# Learn-EcmaScript6-Step-By-Step
+# Learn-EcmaScript6-Step-By-
+
 Learn EcmaScript6 Step By Step
 
+本测试的所有结果使用的转换方式是：
+```
+<!-- 加载Traceur编译器 -->
+<script src="http://google.github.io/traceur-compiler/bin/traceur.js" type="text/javascript"></script>
+<!--&lt;!&ndash; 将Traceur编译器用于网页 &ndash;&gt;-->
+<script src="http://google.github.io/traceur-compiler/src/bootstrap.js" type="text/javascript"></script>
+```
+为方便国内被block的朋友所使用，已经下载上面2个文件放到lib文件夹中。
+
+**Note:** 一些新特性的测试结果无法和官网上的说法一致，后期的考究依然需要继续。但现在一切的结果，依然以你所使用的转换方式得出的结果为准
 #Category
  ```
 ├── root
@@ -42,4 +53,8 @@ Learn EcmaScript6 Step By Step
  
 # Todo
   对象的扩展未完结
+  
+#License
+
+MIT
 
