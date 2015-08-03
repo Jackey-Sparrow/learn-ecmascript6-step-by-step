@@ -50,9 +50,6 @@ Learn EcmaScript6 Step By Step
 
 # How to start
  open the index.html in browser
- 
-# Todo
-  对象的扩展未完结
   
 #License
 
