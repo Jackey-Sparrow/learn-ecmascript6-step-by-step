@@ -21,7 +21,7 @@ for (var i = 0; i < 10; i++) {
 
 a[6]();//9
 
-//使用let
+
 var a = [];
 for (var i = 0; i < 10; i++) {
 	c = i;
